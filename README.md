@@ -45,6 +45,20 @@ Live Demo: http://khabennaki.premiernoobs.com
 ![Untitled_Diagram](https://user-images.githubusercontent.com/76824955/208397401-ad419ace-3277-4463-9b8b-4eee0ed06561.jpg)
 
 
+## Restaurant Web Software
+
+![unknown (3)](https://user-images.githubusercontent.com/76824955/208397193-8e49caeb-7c10-4b4e-a68a-ab7e52753beb.png)
+![unknown](https://user-images.githubusercontent.com/76824955/208397205-85bb2289-0717-46ea-b881-242da5c2af53.png)
+![Screenshot_2022-03-08_at_12-24-06_Demo](https://user-images.githubusercontent.com/76824955/208397216-6227c7ee-496a-4e62-b952-7bfada9b5c8a.png)
+![unknown (1)](https://user-images.githubusercontent.com/76824955/208397270-a55aeddd-ebcc-420e-9159-b3830967627c.png)
+
+## Admin Web Software 
+
+![Screenshot_2022-02-16_at_10-31-10_Demo](https://user-images.githubusercontent.com/76824955/208397558-2376a5f7-3e05-48ea-a579-19c472873bed.png)
+![Screenshot_2022-02-21_at_15-16-37_Demo](https://user-images.githubusercontent.com/76824955/208397567-a35233aa-0704-4d2f-b6c6-9edf8fd41b1f.png)
+![Screenshot_2022-02-15_at_10-38-06_Demo](https://user-images.githubusercontent.com/76824955/208397595-e1a3ab86-b36b-469a-a942-c26352da6439.png)
+
+
 ## User App
 
 ![Screenshot_20220509-121854](https://user-images.githubusercontent.com/76824955/208396554-f68cb349-0306-4904-8254-84fe228f1e1d.jpg)
@@ -67,19 +81,6 @@ Live Demo: http://khabennaki.premiernoobs.com
 ![Screenshot_20220513-163242](https://user-images.githubusercontent.com/76824955/208396773-0d3b51f4-5324-4519-bc09-f8e649645a9f.jpg)
 ![Screenshot_20220513-163247](https://user-images.githubusercontent.com/76824955/208396776-2584f701-2b85-42e9-b7c7-f289502bb6c1.jpg)
 
-
-## Restaurant Software
-
-![unknown (3)](https://user-images.githubusercontent.com/76824955/208397193-8e49caeb-7c10-4b4e-a68a-ab7e52753beb.png)
-![unknown](https://user-images.githubusercontent.com/76824955/208397205-85bb2289-0717-46ea-b881-242da5c2af53.png)
-![Screenshot_2022-03-08_at_12-24-06_Demo](https://user-images.githubusercontent.com/76824955/208397216-6227c7ee-496a-4e62-b952-7bfada9b5c8a.png)
-![unknown (1)](https://user-images.githubusercontent.com/76824955/208397270-a55aeddd-ebcc-420e-9159-b3830967627c.png)
-
-## Admin Software 
-
-![Screenshot_2022-02-16_at_10-31-10_Demo](https://user-images.githubusercontent.com/76824955/208397558-2376a5f7-3e05-48ea-a579-19c472873bed.png)
-![Screenshot_2022-02-21_at_15-16-37_Demo](https://user-images.githubusercontent.com/76824955/208397567-a35233aa-0704-4d2f-b6c6-9edf8fd41b1f.png)
-![Screenshot_2022-02-15_at_10-38-06_Demo](https://user-images.githubusercontent.com/76824955/208397595-e1a3ab86-b36b-469a-a942-c26352da6439.png)
 
 
 ## Targeted Users
